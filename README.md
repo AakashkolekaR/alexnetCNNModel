@@ -1,2 +1,2 @@
 # alexnetCNNModel
-Built the Alex Net CNN model using the cifar10 dataset
+Built the Alex Net CNN model using the Fashion MNIST dataset
